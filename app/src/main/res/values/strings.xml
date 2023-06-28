@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="user_name">Name</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">about</string>
+    <string name="players">Pemain</string>
+    <string name="aboutMe">About Me</string>
+    <string name="nama">Jefanya Brian</string>
+    <string name="email">jefanyalangenya@gmail.com</string>
+    <string name="nama_dummy">Jefanya Brian</string>
+    <string name="email_dummy">jefanyalangenya@gmail.com</string>
+    <string name="search">Search</string>
+    <string name="search_hint">arif</string>
+    <string name="Follower">Followers</string>
+    <string name="Following">Followings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
